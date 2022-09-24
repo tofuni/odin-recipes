@@ -1,0 +1,21 @@
+body {
+    font-family: "SE Inter", "Space Grotesk", "Helvetica", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.home {
+    background-color: #fbf9ee;
+}
+
+.home a {
+    font-size: 20px;
+    color: #000000;
+}
+
+.recipe a {
+    color: #1b4d7a
+}
